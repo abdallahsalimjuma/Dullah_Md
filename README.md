@@ -7,7 +7,7 @@
 <p align="center">l introduce <b>Dullah-Md</b>, a  simple WhatsApp bot Created By Dulla</p>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Dullah Md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dulla}/count.svg" alt="Dullah Md :: Visitor's Count" /></p>
 
 ---
 
