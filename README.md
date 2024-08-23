@@ -51,7 +51,7 @@ href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.i
 ## Fork Dullah Md 💥 Repo
 
 
-<a href="https://github.com/Fred1e/Dullah-Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/Dullah/Dullah-Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 star✨ my repo bruh don't forget please🤖
 
@@ -105,8 +105,8 @@ The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opens
 ## DEVELOPERS :
 
 - [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
-- [**FREDIE TECH 1**](https://github.com/Fred1e)
-- [**FREDIE TECH 2**](https://github.com/fredietechTZ)
+- [**Dullah_md 1**](https://github.com/dullah)
+- [**DULLAH_MD 2**](https://github.com/DULLAH_MD)
 - [**Developers WA Group**](https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv)
 - [**Developers YouTube**](https://youtube.com/@herokuplatform)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
