@@ -78,6 +78,12 @@ star✨ my repo bruh don't forget please🤖
 
    ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/Dullah_Md/tree/main)***
 
+### 4. DEPLOY ANY BOT YOU LIKE HERE
+         `Don't change here`
+<br>
+<a href="https://github.com/Frecyber/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
 ##
 
 
@@ -103,10 +109,10 @@ The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opens
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
-
+         `don't change here`
 - [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
-- [**Dullah_md 1**](https://github.com/dullah)
-- [**DULLAH_MD 2**](https://github.com/DULLAH_MD)
+- [**FREDIE TECH**](https://github.com/Fred1e)
+- [**FRECYBER TECH**](https://github.com/Frecyber)
 - [**Developers WA Group**](https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv)
 - [**Developers YouTube**](https://youtube.com/@herokuplatform)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
