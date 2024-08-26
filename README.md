@@ -51,7 +51,7 @@ href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.i
 ## Fork Dullah Md 💥 Repo
 
 
-<a href="https://github.com/abdallahsalimjuma/Dullah_Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/abdallahsalimjuma/Dullah_Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 star✨ my repo bruh don't forget please🤖
 
@@ -62,17 +62,17 @@ star✨ my repo bruh don't forget please🤖
  GET SESSION ID BY
  
 
-<a href=https://dullahmd-32ab7c05780c.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=blue&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://dullahmd-32ab7c05780c.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
  
-<a href="https://dullahmd-32ab7c05780c.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=blue&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://dullahmd-32ab7c05780c.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
 **1. If You Don't Have An Account On Heroku**
 - <a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-purple?style=for-the-badge&logo=heroku" width="100" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-brown?style=for-the-badge&logo=heroku" width="100" height="38.45"/></a></p>
 
 **2. If You Have Account On Heroku**
 
