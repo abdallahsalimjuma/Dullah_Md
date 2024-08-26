@@ -2,8 +2,8 @@
   "name":"DULLAH MD UPDATE",
   "description":"Best WhatsApp Bot Developed By Dulla Contact Us 255716945971 Thank you for choose Dullah Md",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/de85851cc494331f47b3f.jpg",
-  "repository":"https://github.com/Fred1e/Dullah-Md",
+  "logo":"https://telegra.ph/file/bb24465612098159bb5a9.jpg",
+  "repository":"https://github.com/abdallahsalimjuma/Dullah_Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/de85851cc494331f47b3f.jpg,https://telegra.ph/file/dcaaa16f7b556d84093f7.jpg,https://telegra.ph/file/f0f8ef25b35b76be901a7.jpg",
+      "value":"https://telegra.ph/file/bb24465612098159bb5a9.jpg,https://telegra.ph/file/dcaaa16f7b556d84093f7.jpg,https://telegra.ph/file/f0f8ef25b35b76be901a7.jpg",
       "required":false
        
      },
