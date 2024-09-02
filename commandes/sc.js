@@ -40,7 +40,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/abdallahsalimjuma/DULLAH_MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/CP2BirU5Bj04cXXgEbfuv
+> https://chat.whatsapp.com/channel/CP2BirU5Bj04cXXgEbfuv
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/DULLAH-MD-BOT/DULLAH-SIR-INFO⁠
