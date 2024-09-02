@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://whatsapp.com/channel/CP2BirU5pBj04cXXgEbfuv
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/abdallahsalimjuma/Dullah_Md
+> https://github.com/Dullah-BOT/Dullah_Md
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *DULLAH BOT*
