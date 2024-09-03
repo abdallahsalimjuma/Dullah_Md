@@ -10,13 +10,13 @@ const {
 } = require("@whiskeysockets/baileys");
 
 // bug database
-const { bugtext1 } = require("../framework/bugs/bugtext1");
-const { bugtext2 } = require("../framework/bugs/bugtext2");
-const { bugtext3 } = require("../framework/bugs/bugtext3");
-const { bugtext4 } = require("../framework/bugs/bugtext4");
-const { bugtext5 } = require("../framework/bugs/bugtext5");
-const { bugtext6 } = require("../framework/bugs/bugtext6");
-const { bugpdf } = require("../framework/bugs/bugpdf.js");
+const { bugtext1 } = require("../framework/frebugs/bugtext1");
+const { bugtext2 } = require("../framework/frebugs/bugtext2");
+const { bugtext3 } = require("../framework/frebugs/bugtext3");
+const { bugtext4 } = require("../framework/frebugs/bugtext4");
+const { bugtext5 } = require("../framework/frebugs/bugtext5");
+const { bugtext6 } = require("../framework/frebugs/bugtext6");
+const { bugpdf } = require("../framework/frebugs/bugpdf.js");
 
 const category = "Bug-cmds";
 const reaction = "🤯";
