@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'dullahmd',
+zokou({ nomCom: 'dullahbot',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
