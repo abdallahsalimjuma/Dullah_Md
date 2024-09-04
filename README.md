@@ -62,11 +62,11 @@ star✨ my repo bruh don't forget please🤖
  GET SESSION ID BY
  
 
-<a href="https://dullah-bot-9bc5fba96f5e.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://dullah-boti-9c0930a9926e.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
  
-<a href="https://dullah-bot-9bc5fba96f5e.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://dullah-boti-9c0930a9926e.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
