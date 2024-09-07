@@ -78,10 +78,6 @@ star✨ my repo bruh don't forget please🤖
 
    ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/Dullah_Md/tree/main)***
 
-### 4. DEPLOY ANY BOT YOU LIKE HERE
-         `Don't change here`
-<br>
-<a href="https://github.com/Frecyber/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ##
