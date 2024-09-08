@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━ DULLAH MD ━━┓
+┏━━ DULLAH MD BOT ━━┓
 ┃ *my owner* : ${s.OWNER_NAME}
 ┃  ▸ *commander* : ${nomAuteurMessage} 
 ┃  ▸ *date *: ${date}
@@ -75,8 +75,8 @@ const date = moment().format('DD/MM/YYYY');
 ┃  ▸ *plugin* : ${cm.length} 
 ┃  ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┃  ▸ *running on* : ${os.platform()}
-┃  ▸ *theme* : *FREDI*
-┗━━━━━━━━━━━━━━┛\n\n`;
+┃  ▸ *theme* : *DULLA*
+┗━━━━━━━━━━━━━━━┛\n\n`;
 
 
     
@@ -107,7 +107,7 @@ Dullah md cmds𒈒
         }
 
         menuMsg += `
-┗━━━━━━━━━━━━━━━━━┛\n`
+┗━━━━━━━━━━━━━┛\n`
 
     }
 
