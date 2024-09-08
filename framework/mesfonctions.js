@@ -9,7 +9,8 @@ const baileys_1 = require("@whiskeysockets/baileys");
 const fs = require('fs-extra');
 const util = require('util');
 let { listall } = require('./stylish-font');
-/*_________by Thomas 
+
+/*_________by Djalega++
 
 fonction zJson:
 récupère un objet json
@@ -32,7 +33,7 @@ module.exports.genererNomFichier = async (extension) => {
 /** ************ */
 module.exports.stick = async (buffer, author) => {
     var sticker = new Sticker(buffer, {
-        pack: 'Hacking-MD',
+        pack: 'Beltah-KE',
         author: author,
         type: StickerTypes.FULL,
         categories: ['🤩', '🎉'],
@@ -273,3 +274,20 @@ function police(text, index) {
     return listall(text)[index];
 }
 exports.police = police;
+
+exports.generatepp = async (buffer) => {
+    const jimp = require('jimp');
+
+    const image = await jimp.read(buffer);
+    const min = image.getWidth();
+    const max = image.getHeight();
+    const cropped = image.clone().crop(0, 0, min, max);
+
+    const imgBuffer = await cropped.clone().scaleToFit(720, 720).getBufferAsync(jimp.MIME_JPEG);
+    const previewBuffer = await cropped.clone().normalize().getBufferAsync(jimp.MIME_JPEG);
+
+    return {
+        img: imgBuffer,
+        preview: previewBuffer
+    };
+}
