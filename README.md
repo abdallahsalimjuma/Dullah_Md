@@ -107,7 +107,7 @@ The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opens
 ## DEVELOPERS :
          `don't change here`
 - [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
-- [**FREDIE TECH**](https://github.com/Fred1e)
+- [**DULLAH MD**](https://github.com/DULLAH_MD)
 - [** FRECYBER TECH**](https://github.com/Frecyber)
 - [**Developers WA Group**](https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv)
 - [**Developers YouTube**](https://youtube.com/@herokuplatform)
