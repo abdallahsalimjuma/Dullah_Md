@@ -55,8 +55,8 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🫶" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Dullah", numero: "255716945971" },
-      { nom: "King Coder", numero: "255620814108" },
+      { nom: "Dullah md bot", numero: "255716945971" },
+      { nom: "Dullah Sir", numero: "255756715126" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
