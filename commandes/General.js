@@ -60,7 +60,7 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🫶" }, async (dest, zk
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Hello👋 Friend Welcome🤝 To Dullah Md! here is the dev :\n\n";
+    let message = "Hello👋 Friend Welcome🤝 To Dullah Md Bot! here is the dev :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
