@@ -104,11 +104,11 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🦁" }, async (de
 
     const devs = [
       { nom: "Dullah", numero: "255716945971" },
-      { nom: "King Coder", numero: "255620814108" },
+      { nom: "Dullah Md bot", numero: "255756715126" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to Dullah md* here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to Dullah md bot* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
