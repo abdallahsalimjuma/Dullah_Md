@@ -1,10 +1,10 @@
-const {
-    smd,
-    tlang,
-    prefix,
-     } = require('../lib')
-smd({
-    cmdname: "getall",
+const {zokou} = require("../framework/zokou");
+const conf = require("../set");
+
+
+
+zokou({
+    nomCom: "getall",
     desc: "get jid of all members of groups/pm chats/all groups.",
     type: "owner",
     fromMe:true,
@@ -32,5 +32,5 @@ let str = "";
       for(var i of c.map(t=>t.id)){  str += `📍 ${i}\n`;  } 
       str ? citel.reply(`*「 LIST OF GROUP CHAT JIDS」*\n\n` + str) : citel.reply("*Request Denied!*")
   }else return await citel.reply(`*Use ${prefix}getall pc| gc| member!*`)
-}catch(e){ citel.error(`${e}\n\nCommand getall`,e)}
+}catch(e){ citel.error(`${e}\n\nnomCom getall`,e)}
 });
