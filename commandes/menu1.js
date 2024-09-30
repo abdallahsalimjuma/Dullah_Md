@@ -54,7 +54,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Dullahmd*, déveloper Dullah md bot" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -64,7 +64,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BONIPHACE MD 💥*, déveloper BONIPHACE TEACH" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *DULLAH MD 💥*, déveloper DULLAH MD BOT" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
