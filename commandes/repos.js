@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow Friend
-this is* *Dullah-md 👊.*\n *Join Group Chat* https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv
+this is* *Dullah-md 👊.*\n *Join Group Chat* https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx
 
 🗼 *REPOSITORY:* ${data.html_url}
 💫 *STARS:* ${repoInfo.stars}
