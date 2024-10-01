@@ -4,7 +4,7 @@ const s = require('../set');
 const axios = require('axios');
 
 /* 
-Created By Boniphace tech
+Created By Dullah md
 Don't claim, okey 
 */
 
