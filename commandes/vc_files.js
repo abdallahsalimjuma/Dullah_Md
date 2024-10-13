@@ -78,7 +78,7 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'dullahmd',
+zokou({ nomCom: 'done',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🤭', 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'dullahmd',
+zokou({ nomCom: 'done',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
