@@ -14,7 +14,10 @@
 <p align="center">
   <a href="https://github.com/abdallahsalimjuma/Dullah_Md"><b>Dullah Md</b></a> Support Deploy On...
 </p>
-
+</a>
+  <div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
 <p align="center">
   <a href="https://github.com/abdallahsalimjuma/Dullah_Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/Dullah_Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
