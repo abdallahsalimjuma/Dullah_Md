@@ -1,8 +1,8 @@
 <p align="center">
-DULLAH Md v²
+DULLAH MD v²
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +TKM-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +DULLAH-MD;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
