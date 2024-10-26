@@ -96,9 +96,9 @@ _Termux Setup not recommended_
 
 <table>
   <tr>
-    
-    <td>crazy bot</td>
     <td>Dullah md</td>
+    <td>crazy</td>/td
+    
   </tr>
   <tr>
     <td><a href="https://github.com/abdallahsalimjuma"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
