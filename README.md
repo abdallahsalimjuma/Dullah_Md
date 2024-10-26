@@ -36,22 +36,7 @@ href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.i
 - <a href="https://youtube.com/@herokuplatform?si=kl684fKNUpxTFig2"><img title="Author" src="https://img.shields.io/badge/ON YouTube-darkred?style=for-the-badge&logo=youtube"></a>
 
     
-**•Koyeb and Render Deploy now available**
 
-_Termux Setup not recommended_
-
-**DEVELOPERS**
-
-<table>
-  <tr>
-    <td>Crazy bot</td>
-    <td>Dullah md</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://files.catbox.moe/hlpfuu.jpg" width="180"</td>
-    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://files.catbox.moe/hegdag.jpg" width="180"</td>
-  </tr>
-</table 
  
 
 
