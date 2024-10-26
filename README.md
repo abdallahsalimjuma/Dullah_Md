@@ -88,23 +88,7 @@ star✨ my repo bruh don't forget please🤖
     <a href='https://dashboard.render.com/github/exists?next=%2Fselect-repo%3Ftype%3Dweb%26appInstall%3D1/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 
-**•Koyeb and Render Deploy now available**
 
-_Termux Setup not recommended_
-
-**DEVELOPERS**
-
-<table>
-  <tr>
-    <td>Dullah md</td>
-    <td>crazy</td>/td>
-    
-  </tr>
-  <tr>
-    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
-    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://files.catbox.moe/hegdag.jpg" width="180"</td>
-  </tr>
-</table
 
 
 
