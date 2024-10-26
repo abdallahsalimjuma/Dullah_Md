@@ -48,7 +48,7 @@ _Termux Setup not recommended_
     <td>Cod3Uchiha</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DannyAkintunde"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
+    <td><a href="https://github.com/DannyAkintunde"><img src="https://files.catbox.moe/hlpfuu.jpg" width="180"</td>
     <td><a href="https://github.com/Cod3Uchiha"><img src="https://files.catbox.moe/hegdag.jpg" width="180"</td>
   </tr>
 </table 
