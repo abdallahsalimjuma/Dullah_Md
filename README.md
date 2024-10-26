@@ -96,7 +96,7 @@ _Termux Setup not recommended_
 
 <table>
   <tr>
-    <td>scorpion>/td>
+    
     <td>crazy bot</td>
     <td>Dullah md</td>
   </tr>
