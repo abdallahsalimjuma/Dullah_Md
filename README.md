@@ -97,7 +97,7 @@ _Termux Setup not recommended_
 <table>
   <tr>
     <td>Dullah md</td>
-    <td>crazy</td>/td
+    <td>crazy</td>/td>
     
   </tr>
   <tr>
