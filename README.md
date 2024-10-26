@@ -1,7 +1,4 @@
-## Dullah Md V2💫✔️
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+Md+Created+by+Dullah.&heart;++;Self-taught+Back-Created+By,;Dullah sir+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx">
- <img alt="Dullah Md😎" height="300" src="https://telegra.ph/file/bb24465612098159bb5a9.jpg">
+
   
 </h1> 
 <p align="center">l introduce <b>Dullah-Md</b>, a  simple WhatsApp bot Created By Dulla</p>
