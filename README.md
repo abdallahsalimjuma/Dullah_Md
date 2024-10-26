@@ -101,7 +101,7 @@ _Termux Setup not recommended_
   </tr>
   <tr>
     <td><a href="https://github.com/abdallahsalimjuma"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
-    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://telegra.ph/file/7d1d362a15f946d427db1.jpg" width="180"</td>
+    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://files.catbox.moe/hegdag.jpg" width="180"</td>
   </tr>
 </table
 
