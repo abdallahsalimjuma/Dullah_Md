@@ -86,7 +86,7 @@ star✨ my repo bruh don't forget please🤖
 
 **2. If You Have Account On Heroku**
 
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/Dullah_Md/tree/main)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dullah-md-verification.vercel.app)***
 
 **DEPLOY ON RENDER**
 
