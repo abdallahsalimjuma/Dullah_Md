@@ -105,7 +105,7 @@ zokou({ nomCom: "url", categorie: "General", reaction: "👨🏿‍💻" }, asyn
         repondre('Oops, an error occurred.');
     }
 });
-
+/*
 zokou({nomCom:"scrop",categorie: "Conversion", reaction: "👨🏿‍💻"},async(origineMessage,zk,commandeOptions)=>{
    const {ms , msgRepondu,arg,repondre,nomAuteurMessage} = commandeOptions ;
 
@@ -324,3 +324,4 @@ zokou({ nomCom: "trt", categorie: "Conversion", reaction: "👨🏿‍💻" }, a
 
 
 }) ;
+**/
