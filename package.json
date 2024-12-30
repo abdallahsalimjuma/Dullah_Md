@@ -42,8 +42,8 @@
     "fs-extra": "^11.1.1",
     "g-i-s": "^2.1.7",
     "gist": "^0.2.0",
-     "genius-lyrics": "^4.4.3", 
-    "google-it": "^1.6.4",
+     "genius-lyrics": "^5.5.4", 
+    "google-it": "^2.7.5",
     "google-tts-api": "latest",
     "heroku-client": "^3.1.0",
     "human-readable": "^0.2.1",
@@ -68,7 +68,7 @@
     "typescript": "^5.1.6",
     "wa-sticker-formatter": "^4.4.4",
     "youtube-yts": "^2.0.0",
-    "yt-search": "^2.10.4",
+    "yt-search": "^3.10.4",
     "youtubedl-core": "^4.11.7"
   }
 }
