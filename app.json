@@ -111,7 +111,7 @@
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": ""
+      "value": "255716945971"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
